@@ -1,0 +1,135 @@
+body
+{
+	background-color: #FFFFFF;
+}
+h1
+{
+	font-size: 45px;
+	padding: 10px;
+	margin: 10px;
+	color: #FFFFFF;
+}
+.noPicInfo
+{
+	padding: 0px 10px;
+}
+td.linksTable
+{
+	padding: 10px;
+}
+img.linkIcons
+{
+	vertical-align: text-bottom;
+	width: 18px;
+}
+a.topLinks
+{
+	color: #990000;
+	margin: 0px;
+	font-size: 25px;
+}
+a.topLinks:visited
+{
+	color: #990000;
+}
+a:visited
+{
+	color: #111188;
+}
+a:hover
+{
+	text-decoration: none;
+}
+a.topLinks:hover
+{
+	text-decoration: none;
+}
+div.footer
+{
+	background-color: #FFFFFF;
+	text-align: center;
+	top: 650px;
+	text-color: #000000;
+	position: absolute;
+	width: 100%;
+	margin: 5px;
+}
+div.heading
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #111222;
+	height: 85px;
+	position: absolute;
+	width: 100%;
+}
+a.selectedLink
+{
+	color: #000000;
+	text-decoration: none;
+	margin: 0px;
+	font-size: 25px;
+}
+img
+{
+	vertical-align: text-top;
+}
+img.osulogo
+{
+	margin: 0px;
+	padding: 0px;
+	height: 75px;
+	float: right;
+}
+img#homePageImage
+{
+	float: left;
+	height: 450px;
+	margin: 0px 15px;
+}
+ul.links
+{
+	width: 100%;
+	position: absolute;
+	list-style-type: none;
+	margin: 0px;
+	padding: 10px 0px;
+	top: 100px;
+	background-color: #999999;
+}
+li
+{
+	text-align: center;
+	width: 25%;
+	float: left;
+}
+div.container
+{
+	padding: 0px;
+	position: relative;
+	margin: auto;
+	top: -10px;
+	background-color: #999999;
+	width: 1200px;
+	height: 650px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+}
+div.header
+{
+	position: absolute;
+	top: -5px;
+	background-color: #999999;
+	width: 100%;
+}
+div.mainContent
+{
+	width: 100%;
+	font-size: 20px;
+	position: absolute;
+	background-color: #999999;
+	margin: 0px;
+	top: 150px;
+}
